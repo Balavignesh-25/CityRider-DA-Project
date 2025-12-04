@@ -1,0 +1,1 @@
+Date,RouteID,StopID,ScheduledArrival,ActualArrival,DelayMinutes,PassengerCount,Capacity,LoadFactor,DistanceKM,Weather,AnomalyFlag
